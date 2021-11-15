@@ -245,11 +245,12 @@
  .soc {
    height: 57px;
    width: 57px;
+   margin: 1px;
    text-align: center;     
 
  }
 
- .soc-1 {
+ .soc-1:hover {
     background: rgba(149, 225, 211, 1);
  }
 
@@ -259,7 +260,7 @@
      margin-top: 15px;
  }
 
- .soc-2 {
+ .soc-1 {
     background: rgba(252, 227, 138, 1);
  }
 
